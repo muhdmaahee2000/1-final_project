@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/muhdmaahee2000/Slack-Clone">
-    <img src="https://github.com/muhdmahee2000/Slack-Clone/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/muhdmaahee2000/1-final_project" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Slack Clone</h3>
