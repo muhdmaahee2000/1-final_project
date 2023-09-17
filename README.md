@@ -1,16 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GitHub license](https://img.shields.io/github/license/abhishekpatel946/Slack-Clone)](https://github.com/abhishekpatel946/Slack-Clone)
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/abhishekpatel946/Slack-Clone">
-    <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/muhdmaahee2000/Slack-Clone">
+    <img src="https://github.com/muhdmahee2000/Slack-Clone/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Slack Clone</h3>
@@ -18,14 +10,14 @@
   <p align="center">
     Slack Clone README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/abhishekpatel946/Slack-Clone"><strong>Explore the docs»</strong></a>
+    <a href="https://github.com/muhdmaahee2000/Slack-Clone"><strong>Explore the docs»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/abhishekpatel946/Slack-Clone">View Demo</a>
+    <a href="https://github.com/muhdmaahee2000/Slack-Clone">View Demo</a>
     Â·
-    <a href="https://github.com/abhishekpatel946/Slack-Clone/issues">Report Bug</a>
+    <a href="https://github.com/muhdmaahee2000/Slack-Clone/issues">Report Bug</a>
     Â·
-    <a href="https://github.com/abhishekpatel946/Slack-Clone/issues">Request Feature</a>
+    <a href="https://github.com/muhdmaahee2000/Slack-Clone/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,8 +43,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <a href="https://github.com/abhishekpatel946/Slack-Clone">
-    <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg" alt="Logo" width="300" height="300">
+  <a href="https://github.com/muhdmaahee2000/Slack-Clone">
+    <img src="https://github.com/muhdmaahee2000//Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg" alt="Logo" width="300" height="300">
   </a>
 </p>
 
@@ -92,7 +84,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * Clone
 ```sh
-git clone https://github.com/abhishekpatel946/Slack-Clone.git
+git clone https://github.com/muhdmaahee2000/Slack-Clone.git
 ```
 
 * Link
@@ -102,7 +94,7 @@ git clone https://github.com/abhishekpatel946/Slack-Clone.git
 
 1. Clone the repo
 ```sh
-git clone https://github.com/abhishekpatel946/Slack-Clone.git
+git clone https://github.com/muhdmaahee2000/Slack-Clone.git
 ```
 
 2. Go to the Slack-Clone
@@ -118,10 +110,10 @@ npm start
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![1!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/1.jpg)
-![2!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/2jpg.jpg)
-![3!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/3jpg.jpg)
-![4!](https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/4jpg.jpg)
+![1!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/1.jpg)
+![2!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/2jpg.jpg)
+![3!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/3jpg.jpg)
+![4!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/4jpg.jpg)
 
 _For more examples, please refer to the [Documentation](#built-with)_
 
@@ -130,7 +122,7 @@ _For more examples, please refer to the [Documentation](#built-with)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/abhishekpatel946/Slack-Clone/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/muhdmaahee2000/Slack-Clone/issues) for a list of proposed features (and known issues).
 
 
 
@@ -150,14 +142,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/abhishekpatel946/Slack-Clone/blob/main/LICENSE) for more information.
+License. See [`LICENSE`](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/LICENSE) for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/abhishekpatel946/Slack-Clone](https://github.com/abhishekpatel946/Slack-Clone)
+Project Link: [https://github.com/muhdmaahee2000/Slack-Clone](https://github.com/abhishekpatel946/Slack-Clone)
 
 
 
@@ -174,13 +166,13 @@ Project Link: [https://github.com/abhishekpatel946/Slack-Clone](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/abhishekpatel946/Slack-Clone.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/muhdmaahee2000/Slack-Clone.svg?style=flat
 [contributors-url]: https://github.com/abhishekpatel946/Slack-Clone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/abhishekpatel946/Slack-Clone.svg?style=flat
-[forks-url]: https://github.com/abhishekpatel946/Slack-Clone/network/members
-[stars-shield]: https://img.shields.io/github/stars/abhishekpatel946/Slack-Clone.svg?style=flat
-[stars-url]: https://github.com/abhishekpatel946/Slack-Clone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/Slack-Clone.svg?style=flat
-[issues-url]: https://github.com/abhishekpatel946/Slack-Clone/issues
-[product-screenshot]: https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg
+[forks-shield]: https://img.shields.io/github/forks/muhdmaahee2000/Slack-Clone.svg?style=flat
+[forks-url]: https://github.com/muhdmaahee2000/Slack-Clone/network/members
+[stars-shield]: https://img.shields.io/github/stars/muhdmaahee2000/Slack-Clone.svg?style=flat
+[stars-url]: https://github.com/muhdmaahee2000/Slack-Clone/stargazers
+[issues-shield]: https://img.shields.io/github/issue/muhdmaahee2000/Slack-Clone.svg?style=flat
+[issues-url]: https://github.com/muhdmaahee2000//Slack-Clone/issues
+[product-screenshot]: https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg
 
