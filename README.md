@@ -149,7 +149,7 @@ License. See [`LICENSE`](https://github.com/muhdmaahee2000/Slack-Clone/blob/main
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/muhdmaahee2000/Slack-Clone](https://github.com/abhishekpatel946/Slack-Clone)
+Project Link: [https://github.com/muhdmaahee2000/1-final_project](https://github.com/muhdmaahee2000/1-final_project)
 
 
 
