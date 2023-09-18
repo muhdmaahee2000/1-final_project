@@ -9,15 +9,6 @@
 
   <p align="center">
     Slack Clone README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/muhdmaahee2000/Slack-Clone"><strong>Explore the docs»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/muhdmaahee2000/Slack-Clone">View Demo</a>
-    Â·
-    <a href="https://github.com/muhdmaahee2000/Slack-Clone/issues">Report Bug</a>
-    Â·
-    <a href="https://github.com/muhdmaahee2000/Slack-Clone/issues">Request Feature</a>
   </p>
 </p>
 
