@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/muhdmaahee2000/Slack-Clone">
+  <a href="https://github.com/muhdmaahee2000/1-final_project">
     <img src="https://github.com/muhdmaahee2000/1-final_project" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Slack Clone</h3>
+  <h3 align="center">1 final project</h3>
 
   <p align="center">
     Slack Clone README template to jumpstart your projects!
