@@ -8,7 +8,7 @@
   <h3 align="center">1 final project</h3>
 
   <p align="center">
-    Slack Clone README template to jumpstart your projects!
+    Slack Clone README template to jumpstart my projects!
   </p>
 </p>
 
