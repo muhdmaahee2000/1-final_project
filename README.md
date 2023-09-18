@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/muhdmaahee2000/1-final_project">
-    <img src="https://github.com/muhdmaahee2000/1-final_project" alt="Logo" width="80" height="80">
+    <img src="https://github.com/muhdmaahee2000/1-final_project/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">1 final project</h3>
@@ -110,10 +110,10 @@ npm start
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![1!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pentagram.com%2Fwork%2Fslack%2Fstory&psig=AOvVaw3BRrDYy2h_UrN18-fgTUfw&ust=1695165483545000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCvzN6ltYEDFQAAAAAdAAAAABAO)
-![2!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/2jpg.jpg)
-![3!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/3jpg.jpg)
-![4!](https://github.com/muhdmaahee2000/Slack-Clone/blob/main/src/assets/4jpg.jpg)
+![1!](https://github.com/muhdmaahee2000/1-final_project/blob/main/src/assets/1.jpg)
+![2!](https://github.com/muhdmaahee2000/1-final_project/blob/main/src/assets/2jpg.jpg)
+![3!](https://github.com/muhdmaahee2000/1-final_project/blob/main/src/assets/4jpg.jpg)
+![4!](https://github.com/muhdmaahee2000/1-final_project/blob/main/src/assets/4jpg.jpg)
 
 _For more examples, please refer to the [Documentation](#built-with)_
 
